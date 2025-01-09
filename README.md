@@ -1,2 +1,2 @@
 # ProbabilityTheory
-概率论课程外教部分讲义
+SHNU中美专业概率论课程外教部分个人笔记
